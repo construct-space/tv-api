@@ -1,0 +1,9 @@
+*.o
+construct-tv
+/api/tv/construct-tv
+tv
+web.singlefile.bak/
+node_modules/
+dist/
+.DS_Store
+*.log
